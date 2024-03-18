@@ -30,4 +30,4 @@ return (
   );
 }
  
-export default Task;
+export default Task

@@ -59,4 +59,4 @@ const toggleTaskDone = (id) => {
   );
 }
 
-export default ToDoList;
+export default ToDoList
